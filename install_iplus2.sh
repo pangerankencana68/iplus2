@@ -2,7 +2,7 @@
 OS_NAME=$(lsb_release -cs)
 usuario=$USER
 DIR_PATH=$(pwd)
-PROJECT_NAME=iplus14
+PROJECT_NAME=iplus2
 PORT=7269
 PATHBASE=/opt/$PROJECT_NAME
 PATH_LOG=$PATHBASE/log
